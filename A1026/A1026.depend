@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1535965462 source:f:\patready\a1026\main.cpp
+	<iostream>
+	<stdio.h>
+	<queue>
+	<vector>
+	<algorithm>
+	<set>
+	<math.h>
+
