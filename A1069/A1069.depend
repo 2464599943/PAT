@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1535972506 source:f:\patready\a1069\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<string.h>
+
