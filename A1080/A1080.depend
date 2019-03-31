@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1534844912 source:f:\patready\a1080\main.cpp
+	<iostream>
+	<algorithm>
+	<string.h>
+	<stdio.h>
+	<math.h>
+
