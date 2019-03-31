@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1535182610 source:f:\patready\a1022a\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<set>
+	<map>
+
